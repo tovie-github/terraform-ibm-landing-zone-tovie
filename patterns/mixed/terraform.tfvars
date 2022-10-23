@@ -1,0 +1,3 @@
+prefix                   = "validation"
+region                   = "eu-de"
+ssh_public_key           = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDcg+F7DaEKXnk/RstX9dq74XnU+OSg4Y9jbBAJE+JP3Cn5jvjvTntILy4ceGkBYb+UaIUE4WGllj0WFDkFZFC5iharWb25rskuTzLhSVKIEB2v77qV81AEQNKaZqzwo6FkuqI9i6haDfDWq7A0b28ua8hOcxQcKfytfm/B3JHaykoUwlpZ+uiKAbPUpFXldsvKbTNzlbkg1dujMJQ12TjUlkUSmod7x7FK4DPYA7xATTmZliKeTt80o9Sp8+EnNWSmuOuxAQ94Lsvo7eCCRrZMn0YW8Ghnc4lyELY4ELelm+2ZBTgzs0+LAMW2dV2IqEDGCwl/Fh09VbOE7mfMRFWWDSnubs4xYZNEwYjpytyXyfplUwkk6PHL+WOfyBnkbK21bzlGfpNNUeLId7O9JUtjSnu5comuMvVbANMKKO6JS/PDTaNJXXCl/jLOx4kO14pmQcpCGaxvrLnfEbtaGaNmXr0ysaA0HV05oiZ4OHnlufFpV7UIDib59lRGD12oqE0= vladimirlavrentev@Vladimirs-MacBook-Air.local"
